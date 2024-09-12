@@ -1,9 +1,9 @@
 ![Screenshot (364)](https://github.com/user-attachments/assets/8528e331-eb3d-4cb1-a45d-fe47eef1ec16)
 # NetSifter
 
-NetSifter is a robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various website analysis and network reconnaissance tasks.
+NetSifter is a robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various website analysis and network reconnaissance tasks. 
 
-## Features
+## Features. 
 
 - **WP Plugin Scanner:** Identify WordPress plugins and their versions.
 - **Path Enumeration:** Discover hidden paths and directories on a website.
