@@ -16,7 +16,7 @@ NetSifter is a robust and versatile networking tool designed for comprehensive w
 
 To get started with NetSifter, follow these steps:.
 
-1. **Clone the repository:**
+1. **Clone the repository:**.
     ```bash
     git clone https://github.com/coffinsp/LostXtools.git
     ```
