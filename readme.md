@@ -14,7 +14,7 @@ NetSifter is a robust and versatile networking tool designed for comprehensive w
 
 ## Installation
 
-To get started with NetSifter, follow these steps:
+To get started with NetSifter, follow these steps:.
 
 1. **Clone the repository:**
     ```bash
