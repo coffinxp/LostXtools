@@ -1,42 +1,45 @@
-NetSifter
+# NetSifter
 
-This program was created by: Naho, Hexsh1dow, AnonKryptiQuz, and Coffinxp
+NetSifter is a robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various tasks related to website analysis and network reconnaissance.
 
-NetSifter is a powerful and versatile networking tool designed for web enumeration, scanning, and information gathering. It provides a user-friendly interface to perform various tasks related to website analysis and network reconnaissance.
+## Contributors
 
-Features
+This project was created by:
+- **Naho**
+- **Hexsh1dow**
+- **AnonKryptiQuz**
+- **Coffinxp**
 
-WP Plugin Scanner
-Path Enumeration
-WP Enumeration
-Emails Scanner
-Ports Scanner
-IP Scanner
+## Features
 
-Installation
+- **WP Plugin Scanner:** Identify WordPress plugins and their versions.
+- **Path Enumeration:** Discover hidden paths and directories on a website.
+- **WP Enumeration:** Enumerate WordPress users, themes, and more.
+- **Emails Scanner:** Search for email addresses within a domain.
+- **Ports Scanner:** Scan for open ports on a target IP address.
+- **IP Scanner:** Perform IP address reconnaissance and mapping.
 
-Clone the repository:
-git clone https://github.com/yourrepo/netsifter.git
-cd netsifter
-Install the required dependencies:
-pip install -r requirements.txt
+## Installation
 
-Usage
+To get started with NetSifter, follow these steps:
 
-To run NetSifter, execute the main script:
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourrepo/netsifter.git
+    ```
 
+2. **Navigate to the project directory:**
+    ```bash
+    cd netsifter
+    ```
+
+3. **Install the required dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+To start using NetSifter, run the main script:
+```bash
 python netsifter.py
-You will be presented with a menu of options. Select the desired function by entering the corresponding number.
-
-Modules
-
-WPenum.py: WordPress enumeration module
-ports.py: Port scanning module
-ip.py: IP scanning module
-path.py: Path enumeration module
-plugin.py: WordPress plugin scanning module
-emails.py: Email scanning module
-
-Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
