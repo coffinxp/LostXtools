@@ -1,0 +1,2 @@
+Port scan for 192.0.66.108
+Open ports: 80, 443

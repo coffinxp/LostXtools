@@ -1,0 +1,6 @@
+aiohttp==3.8.6
+beautifulsoup4==4.11.2
+colorama==0.3.9
+fake_useragent==1.2.1
+Requests==2.32.3
+rich==13.8.1
