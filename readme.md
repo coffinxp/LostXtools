@@ -36,3 +36,9 @@ To get started with NetSifter, follow these steps:
 To start using NetSifter, run the main script:
 ```bash
 python netsifter.py
+
+## Contributors
+- AnonKryptiQuz
+- Coffinxp
+- Hexsh1dow
+- Naho
