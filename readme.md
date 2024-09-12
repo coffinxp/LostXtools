@@ -18,7 +18,7 @@ To get started with NetSifter, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourrepo/netsifter.git
+    git clone https://github.com/coffinsp/LostXtools.git
     ```
 
 2. **Navigate to the project directory:**
