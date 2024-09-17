@@ -23,7 +23,7 @@ To get started with NetSifter, follow these steps:.
 
 2. **Navigate to the project directory:**
     ```bash
-    cd netsifter
+    cd LostXtools
     ```
 
 3. **Install the required dependencies:**
